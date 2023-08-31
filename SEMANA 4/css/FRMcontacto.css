@@ -75,7 +75,7 @@ form input{
     box-sizing: border-box;
     color: rgb(0, 0, 0);
     outline: none;
-    border: :2px solid black;
+    border:2px solid black;
 }
 footer{
     font-size: 16px;
